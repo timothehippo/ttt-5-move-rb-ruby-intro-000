@@ -19,7 +19,7 @@ end
 
 
 def move(board, index, character="X")
-
+board[index] = character
 
 
 end
