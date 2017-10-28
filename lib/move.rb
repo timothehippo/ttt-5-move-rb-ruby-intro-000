@@ -11,7 +11,7 @@ def input_to_index(number)
 
 if(finalnumber = number.to_i-1)
   return finalnumber
-else 
+else return -1
 
 
 
