@@ -10,7 +10,7 @@ end
 def input_to_index(number)
 
 finalnumber = number.to_i
-board[finalnumber]="x"
+board[finalnumber-1]="x"
 
 
 end
