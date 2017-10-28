@@ -12,7 +12,7 @@ def input_to_index(number)
 if(finalnumber = number.to_i-1)
   return finalnumber
 else return -1
-
+end
 
 
 end
