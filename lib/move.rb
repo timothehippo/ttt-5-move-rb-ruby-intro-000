@@ -9,7 +9,9 @@ end
 # code your input_to_index and move method here!
 def input_to_index(number)
 
-finalnumber = number.to_i-1
+if(finalnumber = number.to_i-1)
+  return finalnumber
+else 
 
 
 
