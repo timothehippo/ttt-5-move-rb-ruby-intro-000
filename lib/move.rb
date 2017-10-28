@@ -16,3 +16,10 @@ end
 
 
 end
+
+
+def move(board, index, character="X")
+
+
+
+end
